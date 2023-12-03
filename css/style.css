@@ -38,7 +38,6 @@ button {
   border-radius: 5px;
 }
 .images {
-  /* columns: 1;   */
   margin-top: 59px;
   column-gap: 20px; 
   height: fit-content;
